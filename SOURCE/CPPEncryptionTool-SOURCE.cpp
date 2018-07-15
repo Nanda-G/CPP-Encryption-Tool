@@ -155,4 +155,5 @@ int main()
 	}
 	cout << "\n\nPress any key to exit."; // When exit command is entered.
 	getch();
+	return 0;
 }
