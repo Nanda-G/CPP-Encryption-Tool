@@ -91,7 +91,7 @@ void terminalIntake() //This function is the core for the terminal-style input.
 		cout << "\n6. encrypt -> Starts the encryption process. This will encrypt the data input using 'inputdata' and save it as a file.";
 		cout << "\n\t*** use 'encrypt --dat' to encrypt text and save as a binary file.";
 		cout << "\n\n---------------------------------------------------------------";
-		cout << "\n\nVersion 1.0 || Developed by Liam Z. Charles & Nanda Gopal";
+		cout << "\n\nVersion 0.1 || Developed by Liam Z. Charles & Nanda Gopal";
 		cout << "\ngithub.com/LiamZC/CPP-Encryption-Tool\n\n";
 		cout << "\n---------------------------------------------------------------\n";
 	}
@@ -143,7 +143,7 @@ int main()
 	clrscr();
 	textcolor(GREEN); // Sets console color as green for text being output through cprintf.
 	// cprintf and textcolor() are from CONIO.H
-	cprintf("Welcome to the CPP Encryption Tool."); // cprintf is used instead of cout to use the above textcolor(GREEN) attribute. Will be implemented fully in the program when coloring the entire console.
+	cprintf("Welcome to the CPP Encryption Tool | v0.1"); // cprintf is used instead of cout to use the above textcolor(GREEN) attribute. Will be implemented fully in the program when coloring the entire console.
 	cout << "\nThis program follows a terminal-input style. Use the 'help' command to see all available commands and their valid parameters.\n\nUse CTRL+C to force quit from the program.\n\n";
 	while (Quit < 1) // Keeps the terminal intake running as long as an exit/quit command wasnt entered.
 	{
