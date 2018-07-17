@@ -1,0 +1,2 @@
+﻿  CPPEncryptionTool.cpp
+c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(25): error C2040: 'loadBuffer': 'char [500]' differs in levels of indirection from 'std::ifstream'

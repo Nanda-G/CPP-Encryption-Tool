@@ -1,3 +1,3 @@
 ﻿  stdafx.cpp
   CPPEncryptionTool.cpp
-  CPPEncryptionTool.vcxproj -> C:\Users\LIAM-ROG\source\repos\CPPEncryptionTool\Debug\CPPEncryptionTool.exe
+c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(23): error C2040: 'loadBuffer': 'char [500]' differs in levels of indirection from 'std::ifstream'
