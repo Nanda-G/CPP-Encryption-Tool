@@ -1,10 +1,7 @@
 # CPP-Encryption-Tool
 
-A simple C++ tool that can randomly generate encryption keys, encrypt given input and save it as a file which can be decrypted by the same tool.
-Use the 'help' command in the tool for a list of all valid commands and operations.
-
-
-> This project is in development.
+This is a simple C++ tool that can randomly generate encryption keys, encrypt given input and save it as a file which can be decrypted by the same tool. 
+Use the 'help' command in the tool to view the list of all commands the tool can recognize.
 
 # Upcoming Functionality
 
