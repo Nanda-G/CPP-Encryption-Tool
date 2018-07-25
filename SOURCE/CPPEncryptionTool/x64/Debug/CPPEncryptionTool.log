@@ -1,3 +1,4 @@
 ﻿  CPPEncryptionTool.cpp
-c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(75): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(478): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
   CPPEncryptionTool.vcxproj -> C:\Users\LIAM-ROG\Documents\GitHub\CPP-Encryption-Tool\SOURCE\x64\Debug\CPPEncryptionTool.exe
