@@ -1,5 +1,6 @@
 ﻿  CPPEncryptionTool.cpp
-c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(463): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
-c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(605): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(472): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+c:\users\liam-rog\documents\github\cpp-encryption-tool\source\cppencryptiontool\cppencryptiontool.cpp(614): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  LINK : C:\Users\LIAM-ROG\Documents\GitHub\CPP-Encryption-Tool\SOURCE\x64\Debug\CPPEncryptionTool.exe not found or not built by the last incremental link; performing full link
   CPPEncryptionTool.vcxproj -> C:\Users\LIAM-ROG\Documents\GitHub\CPP-Encryption-Tool\SOURCE\x64\Debug\CPPEncryptionTool.exe
