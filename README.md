@@ -8,5 +8,5 @@ Use the 'help' command in the tool to view the list of all commands the tool can
 # BETAV1.1:
 
 This version is a **BETA** version. Currently, it adds a feature and fixes a few bugs.
-> Users can now protect their files with a 4-digit pincode, which is required to decrypt a protected encrypted file.
-> Fixed a bug with array management and incorrect values when managing arrays.
+-- Users can now protect their files with a 4-digit pincode, which is required to decrypt a protected encrypted file.
+-- Fixed a bug with array management and incorrect values when managing arrays.
