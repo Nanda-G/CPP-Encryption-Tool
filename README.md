@@ -13,4 +13,4 @@ Use the 'help' command in the tool to view the list of all commands the tool can
 
 # Upcoming Functionality
 
-**Password protection on saved files.**
+**Password/Pin protection on saved files.**  -- Pin protection available in V1.1, currently in BETA.
